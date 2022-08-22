@@ -9,6 +9,6 @@ namespace WinUIItemsRepeaterExpressionAnimationBugDemo
     internal class Hello
     {
 
-        static                  void   G2(){}
+        static                  void   G233(){}
     }
 }
