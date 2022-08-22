@@ -10,7 +10,7 @@ namespace WinUIItemsRepeaterExpressionAnimationBugDemo
     {
         public MainPage()
         {
-            this.InitializeComponent();
+            this.InitializeComponent(); 
         }
 
         private void MainPage_Loaded(object sender, RoutedEventArgs e)
